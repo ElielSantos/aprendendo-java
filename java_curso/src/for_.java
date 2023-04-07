@@ -6,7 +6,7 @@ public class for_ {
         Scanner sc = new Scanner(System.in);
          
         int N = sc.nextInt();
-        
+ 
         int soma = 0;
         for (int i=0; i<N; i++) {
         	int x = sc.nextInt();
@@ -15,6 +15,6 @@ public class for_ {
         
         System.out.println(soma);
         sc.close();
-	}
- 
+        
+	} 
 }
