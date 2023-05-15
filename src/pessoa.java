@@ -4,10 +4,10 @@ public class pessoa {
 
 	public static void main(String[] args) {
 		
-		String name = "Eliel";
-		int age = 21;
-	    double height = 1.78;
-	    char gender = 'M';
+		String name = "ANA YANOMAMI";
+		int age = 18;
+	    double height = 1.62;
+	    char gender = 'F';
 		
 	    System.out.println(name  + age + height + gender); 
 	    System.out.printf("%s tem %s e altura de %.2fcm e se indentifica como: %s", name, age, height, gender);
