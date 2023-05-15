@@ -5,7 +5,7 @@ public class String_funcoes {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
-		String original = "Santos de Jesus   ";
+		String original = "SANTOS YANOMAMI   ";
 		String v1 = "Banana Uva Manga";
 
 		String so1 = original.toUpperCase();
