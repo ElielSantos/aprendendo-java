@@ -1,6 +1,6 @@
-# Aprendendo Java
 
-Este repositório é um recurso para aprender Java,
+
+Este repositório é um recurso do que venho aprendendo em Java
 
 
 
